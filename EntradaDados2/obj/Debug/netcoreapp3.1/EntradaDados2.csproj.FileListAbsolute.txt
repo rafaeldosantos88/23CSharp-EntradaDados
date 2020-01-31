@@ -1,0 +1,11 @@
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.exe
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.deps.json
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.runtimeconfig.json
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.runtimeconfig.dev.json
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.dll
+C:\Temp\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.pdb
+C:\Temp\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.csprojAssemblyReference.cache
+C:\Temp\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.AssemblyInfoInputs.cache
+C:\Temp\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.AssemblyInfo.cs
+C:\Temp\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.dll
+C:\Temp\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.pdb
